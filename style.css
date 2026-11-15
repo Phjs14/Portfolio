@@ -188,3 +188,18 @@ footer {
         font-size: 1.8rem;
     }
 }
+/* Estilo dos títulos de categorias na área de projetos */
+.categoria-titulo {
+    color: #a5b4fc;
+    font-size: 1.3rem;
+    margin: 35px 0 16px 0;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    border-bottom: 2px solid #1e293b;
+    padding-bottom: 8px;
+}
+
+.categoria-titulo:first-of-type {
+    margin-top: 15px;
+}
